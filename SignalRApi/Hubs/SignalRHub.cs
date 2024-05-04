@@ -19,4 +19,5 @@ namespace SignalRApi.Hubs
 }
 
 //Cors politikası nedir?
+
 //SOP?
